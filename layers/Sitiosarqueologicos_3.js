@@ -1,0 +1,1 @@
+var json_Sitiosarqueologicos_3 = {"type":"FeatureCollection","name":"Sitiosarqueologicos_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"MultiPoint","coordinates":[[-72.049958669002677,-46.556841803668]]}}]}
